@@ -1,0 +1,34 @@
+
+
+
+.home{
+    width: 100%;
+    height: 600px;
+    background: url(../../assets/main.jpg) no-repeat center/cover ;
+    
+}
+.shopping{
+    color: #fff;
+    text-align: center;
+    font-size: 45px;
+    padding-top: 40px;
+}
+.home__info{
+    color: rgb(88, 87, 87);
+    font-size: 24px;
+    text-align: center;
+    padding-top: 15px;
+    width: 40%;
+    margin: auto;
+}
+.home__get{
+    text-align: center;
+    color: dodgerblue;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: 500;
+}
+.home__get span{
+    font-size: 20px;
+    margin-top: 50px;
+}
